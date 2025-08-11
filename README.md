@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jorge Luis Yapor De león
 
-<!--
-**jorgelyapor/jorgelyapor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desarrollador de Software
 
-Here are some ideas to get you started:
+Desarrollador Full Stack con más de 6 años de experiencia. Especializado en la creación de API REST, desarrollo móvil y
+mantenimiento de plataformas web. Reconocido por mi capacidad para adaptarme rápidamente a nuevas tecnologías, apoyar de
+manera efectiva a los equipos y ser proactivo en la resolución de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** JavaScript, TypeScript, Python, PHP  
+- **Frameworks:** Angular, Laravel, Ionic 
+- **Base de Datos:** MySQL, SQL Server  
+---
+
+## 📂 Proyectos Destacados
+
+- **[CSV Reader](https://play.google.com/store/apps/details?id=readcsv.personal.lynaje)**: Lector de CSV para android.
+
+---
+
+## 📫 Contacto
+
+- **Email:** jorgelyapor@gmail.com
+- **LinkedIn:** [linkedin.com/in/jorgelyapor](https://linkedin.com/in/jorgelyapor)  
+- **GitHub:** [github.com/jorgelyapor](https://github.com/jorgelyapor)  
