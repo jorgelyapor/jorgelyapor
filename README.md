@@ -2,12 +2,17 @@
 
 ## 💻 Desarrollador de Software
 
-Desarrollador Full Stack con más de 6 años de experiencia. Especializado en la creación de API REST, desarrollo móvil y
+Desarrollador Full Stack con varios años de experiencia. Especializado en la creación de API REST, desarrollo móvil y
 mantenimiento de plataformas web. Reconocido por mi capacidad para adaptarme rápidamente a nuevas tecnologías, apoyar de
 manera efectiva a los equipos y ser proactivo en la resolución de problemas.
 
 ---
+## 💼 Experiencia Laboral
 
+- **DevCreativo:** Desarrollador Full Stack _(Ago 2018–Presente)_
+- **MetaConxept:** Desarrollador Junior & QA _(Dic 2016–Feb 2018)_
+
+---
 ## 🛠️ Tecnologías y Herramientas
 
 - **Lenguajes:** JavaScript, TypeScript, Python, PHP  
@@ -15,10 +20,8 @@ manera efectiva a los equipos y ser proactivo en la resolución de problemas.
 - **Base de Datos:** MySQL, SQL Server  
 ---
 
-## 📂 Proyectos Destacados
-
+## 📂 Proyectos personales
 - **[CSV Reader](https://play.google.com/store/apps/details?id=readcsv.personal.lynaje)**: Lector de CSV para android.
-
 ---
 
 ## 📫 Contacto
